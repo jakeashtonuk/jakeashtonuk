@@ -1,7 +1,6 @@
 ## Hi👋
-***
-I
 
+I’m Jake Ashton, a Sport and Exercise Scientist concurrently working as an Artificial Intelligence Engineer to develop applied computational frameworks and architecture that strengthen athletic algorithms, data analysis, automation, models, and evidence-based training. This approach is integrated with interdisciplinary fields, including but not limited to physiology, biomechanics, performance analysis, and field and laboratory-based testing and research.
 <!--
 **jakeashtonuk/jakeashtonuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
