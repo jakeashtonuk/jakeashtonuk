@@ -4,8 +4,13 @@ I’m Jake Ashton, a Sport and Exercise Scientist concurrently working as an Art
 
 This multidimensional foundation equips me to address substantial gaps with enhanced objectivity, micro-analytic precision, interpretive clarity, and operational efficiency. Across these repositories, that work is translated into reproducible code, analytical pipelines, and technical implementations for performance evaluation, research execution, and decision support.
  
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-***
+ <h3>AI Engineering Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</p>
 
 ## Technical Focus 🔭
 
