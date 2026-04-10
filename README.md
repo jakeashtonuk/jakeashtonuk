@@ -8,14 +8,13 @@ This multidimensional foundation equips me to address substantial gaps with enha
 
 ## Technical Focus 🔭
 
-- Computational architecture
-- Analytical pipeline development
-- Performance data modelling
-- Predictive algorithm design
-- Workflow automation
-- Research-integrated implementation
-- Decision-support tooling
-- Reproducible technical execution
+- Data tabulation
+- Multimodel data fusion
+- Metric validation and algorithm auditing
+- Error analysis & refinement
+- Feature engineering
+- Explainability and output interpretation
+- Planning 
 <!--
 **jakeashtonuk/jakeashtonuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
